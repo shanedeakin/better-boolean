@@ -1,5 +1,5 @@
 # Better Boolean
-A drop in replacement for the default Boolean field
+A drop in replacement for the default Laravel Nova Boolean field
 
 ## Installation
 
